@@ -1,2 +1,2 @@
 # utkarsh-projects
-Data Science projects
+Data Science Projects
