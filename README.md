@@ -19,15 +19,18 @@ Survived — Survival status of the passenger (0 = No, 1 = Yes)
 ## Project Tasks
 Data Preprocessing:
 Cleaned missing values, encoded categorical features, and normalized inputs where necessary.
+
 Model Selection:
 Trained and validated the following classifiers:
 Support Vector Machine (SVM)
 K-Nearest Neighbors (KNN)
 Decision Tree Classifier
+
 Model Evaluation:
 Used validation accuracy and confusion matrix to compare models
 Selected the best-performing model based on validation metrics
 Reported test accuracy for the selected model
+
 Ensemble Approach:
 Combined predictions of all three models using majority voting
 Compared ensemble accuracy to individual models
