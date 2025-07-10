@@ -35,11 +35,11 @@ Ensemble Approach:
 Combined predictions of all three models using majority voting
 Compared ensemble accuracy to individual models
 
-Tools Used
+Tools Used:
 Python (Jupyter Notebook)
 Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Key Outcomes
+Key Outcomes:
 Demonstrated model comparison using validation accuracy
 Achieved improved prediction using ensemble classification
 Showcased end-to-end classification pipeline from data prep to evaluation
